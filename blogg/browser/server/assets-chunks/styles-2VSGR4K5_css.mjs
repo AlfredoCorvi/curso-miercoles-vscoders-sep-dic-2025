@@ -1,0 +1,2 @@
+export default `@charset "UTF-8";*{margin:0;padding:0;box-sizing:border-box}html,body{height:100%}body,app-root{display:flex;flex-direction:column;min-height:100vh;font-family:Arial,Helvetica,sans-serif;background-color:#101820}main{flex:1;display:flex;flex-direction:column;min-height:0}main>*{flex:1}section{flex:1}footer{margin-top:auto}router-outlet+*{flex:1}
+`;
